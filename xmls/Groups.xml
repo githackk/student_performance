@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<list>
+  <group>
+    <Id>2</Id>
+    <Name>ДИБCС-21</Name>
+    <Speciality>Информационная безопасность автоматизированных систем</Speciality>
+    <Course>2</Course>
+    <Faculty>ИИТиК</Faculty>
+  </group>
+  <group>
+    <Id>3</Id>
+    <Name>ДИААБ-21</Name>
+    <Speciality>Автоматизация технологических процессов и производств</Speciality>
+    <Course>2</Course>
+    <Faculty>ИИТиК</Faculty>
+  </group>
+  <group>
+    <Id>4</Id>
+    <Name>ДИСМБ-21</Name>
+    <Speciality>Инфокоммуникационные технологии и системы связи</Speciality>
+    <Course>2</Course>
+    <Faculty>ИИТиК</Faculty>
+  </group>
+  <group>
+    <Id>5</Id>
+    <Name>ДИБББ-21</Name>
+    <Speciality>Информационная безопасность</Speciality>
+    <Course>2</Course>
+    <Faculty>ИИТиК</Faculty>
+  </group>
+</list>

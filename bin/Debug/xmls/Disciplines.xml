@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<list>
+  <Discipline>
+    <Id>1</Id>
+    <Name>АПЖЦПО</Name>
+    <Group_Id>5</Group_Id>
+  </Discipline>
+  <Discipline>
+    <Id>3</Id>
+    <Name>БЖД</Name>
+    <Group_Id>5</Group_Id>
+  </Discipline>
+  <Discipline>
+    <Id>7</Id>
+    <Name>Физические основы защиты информации</Name>
+    <Group_Id>5</Group_Id>
+  </Discipline>
+  <Discipline>
+    <Id>9</Id>
+    <Name>Анализ защищенности систем</Name>
+    <Group_Id>5</Group_Id>
+  </Discipline>
+</list>

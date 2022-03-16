@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<list>
+  <Task>
+    <Id>1</Id>
+    <Name>Лабораторная работа №1</Name>
+    <Discipline_Id>1</Discipline_Id>
+    <Term>
+      <Day>30</Day>
+      <Month>12</Month>
+      <Year>2021</Year>
+      <Hour>19</Hour>
+      <Minute>0</Minute>
+    </Term>
+    <Type_of_Lesson>Лабораторная работа</Type_of_Lesson>
+    <Theme_of_Lesson>Разработка планов обеспечения жизненного цикла и распределения ресурсов проекта сложного комплекса программ</Theme_of_Lesson>
+    <Serial_Number_of_Theme>1</Serial_Number_of_Theme>
+    <Max_Mark>10</Max_Mark>
+  </Task>
+  <Task>
+    <Id>2</Id>
+    <Name>Лабораторная работа №2</Name>
+    <Discipline_Id>1</Discipline_Id>
+    <Term>
+      <Day>30</Day>
+      <Month>12</Month>
+      <Year>2021</Year>
+      <Hour>20</Hour>
+      <Minute>0</Minute>
+    </Term>
+    <Type_of_Lesson>Лабораторная работа</Type_of_Lesson>
+    <Theme_of_Lesson>Работа с системой контроля версий git</Theme_of_Lesson>
+    <Serial_Number_of_Theme>2</Serial_Number_of_Theme>
+    <Max_Mark>10</Max_Mark>
+  </Task>
+  <Task>
+    <Id>3</Id>
+    <Name>Лабораторная работа №3</Name>
+    <Discipline_Id>1</Discipline_Id>
+    <Term>
+      <Day>30</Day>
+      <Month>12</Month>
+      <Year>2021</Year>
+      <Hour>21</Hour>
+      <Minute>0</Minute>
+    </Term>
+    <Type_of_Lesson>Лабораторная работа</Type_of_Lesson>
+    <Theme_of_Lesson>Знакомство с паттернами проектирования</Theme_of_Lesson>
+    <Serial_Number_of_Theme>3</Serial_Number_of_Theme>
+    <Max_Mark>10</Max_Mark>
+  </Task>
+  <Task>
+    <Id>7</Id>
+    <Name>Анализ производственного травматизма</Name>
+    <Discipline_Id>3</Discipline_Id>
+    <Term>
+      <Day>20</Day>
+      <Month>6</Month>
+      <Year>2022</Year>
+      <Hour>0</Hour>
+      <Minute>0</Minute>
+    </Term>
+    <Type_of_Lesson>Расчетно-графическая работа</Type_of_Lesson>
+    <Theme_of_Lesson>Анализ производственного травматизма</Theme_of_Lesson>
+    <Serial_Number_of_Theme>1</Serial_Number_of_Theme>
+    <Max_Mark>20</Max_Mark>
+  </Task>
+  <Task>
+    <Id>8</Id>
+    <Name>Микроклимат</Name>
+    <Discipline_Id>3</Discipline_Id>
+    <Term>
+      <Day>18</Day>
+      <Month>6</Month>
+      <Year>2022</Year>
+      <Hour>0</Hour>
+      <Minute>0</Minute>
+    </Term>
+    <Type_of_Lesson>Лабораторная работа</Type_of_Lesson>
+    <Theme_of_Lesson>Микроклимат</Theme_of_Lesson>
+    <Serial_Number_of_Theme>2</Serial_Number_of_Theme>
+    <Max_Mark>10</Max_Mark>
+  </Task>
+  <Task>
+    <Id>9</Id>
+    <Name>Естественное освещение</Name>
+    <Discipline_Id>3</Discipline_Id>
+    <Term>
+      <Day>18</Day>
+      <Month>6</Month>
+      <Year>2022</Year>
+      <Hour>0</Hour>
+      <Minute>0</Minute>
+    </Term>
+    <Type_of_Lesson>Лабораторная работа</Type_of_Lesson>
+    <Theme_of_Lesson>Естественное освещение</Theme_of_Lesson>
+    <Serial_Number_of_Theme>3</Serial_Number_of_Theme>
+    <Max_Mark>10</Max_Mark>
+  </Task>
+  <Task>
+    <Id>10</Id>
+    <Name>Искусственное освещение</Name>
+    <Discipline_Id>3</Discipline_Id>
+    <Term>
+      <Day>25</Day>
+      <Month>6</Month>
+      <Year>2022</Year>
+      <Hour>0</Hour>
+      <Minute>0</Minute>
+    </Term>
+    <Type_of_Lesson>Лабораторная работа</Type_of_Lesson>
+    <Theme_of_Lesson>Искусственное освещение</Theme_of_Lesson>
+    <Serial_Number_of_Theme>4</Serial_Number_of_Theme>
+    <Max_Mark>10</Max_Mark>
+  </Task>
+  <Task>
+    <Id>11</Id>
+    <Name>Нормирование вредных веществ</Name>
+    <Discipline_Id>3</Discipline_Id>
+    <Term>
+      <Day>23</Day>
+      <Month>6</Month>
+      <Year>2022</Year>
+      <Hour>0</Hour>
+      <Minute>0</Minute>
+    </Term>
+    <Type_of_Lesson>Лабораторная работа</Type_of_Lesson>
+    <Theme_of_Lesson>Нормирование вредных веществ</Theme_of_Lesson>
+    <Serial_Number_of_Theme>5</Serial_Number_of_Theme>
+    <Max_Mark>10</Max_Mark>
+  </Task>
+  <Task>
+    <Id>17</Id>
+    <Name>ДЗ №1</Name>
+    <Discipline_Id>9</Discipline_Id>
+    <Term>
+      <Day>18</Day>
+      <Month>6</Month>
+      <Year>2020</Year>
+      <Hour>17</Hour>
+      <Minute>0</Minute>
+    </Term>
+    <Type_of_Lesson>Практическое занятие</Type_of_Lesson>
+    <Theme_of_Lesson>ДЗ №1</Theme_of_Lesson>
+    <Serial_Number_of_Theme>1</Serial_Number_of_Theme>
+    <Max_Mark>5</Max_Mark>
+  </Task>
+  <Task>
+    <Id>18</Id>
+    <Name>ДЗ №2</Name>
+    <Discipline_Id>9</Discipline_Id>
+    <Term>
+      <Day>19</Day>
+      <Month>6</Month>
+      <Year>2020</Year>
+      <Hour>12</Hour>
+      <Minute>0</Minute>
+    </Term>
+    <Type_of_Lesson>Практическое занятие</Type_of_Lesson>
+    <Theme_of_Lesson>ДЗ №2</Theme_of_Lesson>
+    <Serial_Number_of_Theme>2</Serial_Number_of_Theme>
+    <Max_Mark>5</Max_Mark>
+  </Task>
+  <Task>
+    <Id>19</Id>
+    <Name>ДЗ №3</Name>
+    <Discipline_Id>9</Discipline_Id>
+    <Term>
+      <Day>20</Day>
+      <Month>6</Month>
+      <Year>2020</Year>
+      <Hour>12</Hour>
+      <Minute>0</Minute>
+    </Term>
+    <Type_of_Lesson>Практическое занятие</Type_of_Lesson>
+    <Theme_of_Lesson>ДЗ №3</Theme_of_Lesson>
+    <Serial_Number_of_Theme>3</Serial_Number_of_Theme>
+    <Max_Mark>5</Max_Mark>
+  </Task>
+  <Task>
+    <Id>20</Id>
+    <Name>ДЗ №4</Name>
+    <Discipline_Id>9</Discipline_Id>
+    <Term>
+      <Day>21</Day>
+      <Month>6</Month>
+      <Year>2020</Year>
+      <Hour>14</Hour>
+      <Minute>0</Minute>
+    </Term>
+    <Type_of_Lesson>Практическое занятие</Type_of_Lesson>
+    <Theme_of_Lesson>ДЗ №4</Theme_of_Lesson>
+    <Serial_Number_of_Theme>4</Serial_Number_of_Theme>
+    <Max_Mark>5</Max_Mark>
+  </Task>
+  <Task>
+    <Id>21</Id>
+    <Name>ИДЗ 19.1, ИДЗ 19.2</Name>
+    <Discipline_Id>9</Discipline_Id>
+    <Term>
+      <Day>27</Day>
+      <Month>6</Month>
+      <Year>2020</Year>
+      <Hour>0</Hour>
+      <Minute>0</Minute>
+    </Term>
+    <Type_of_Lesson>Расчетно-графическая работа</Type_of_Lesson>
+    <Theme_of_Lesson>Статистика</Theme_of_Lesson>
+    <Serial_Number_of_Theme>5</Serial_Number_of_Theme>
+    <Max_Mark>20</Max_Mark>
+  </Task>
+  <Task>
+    <Id>22</Id>
+    <Name>Симплекс-метод</Name>
+    <Discipline_Id>7</Discipline_Id>
+    <Term>
+      <Day>18</Day>
+      <Month>6</Month>
+      <Year>2020</Year>
+      <Hour>18</Hour>
+      <Minute>0</Minute>
+    </Term>
+    <Type_of_Lesson>Лабораторная работа</Type_of_Lesson>
+    <Theme_of_Lesson>Линейное программирование</Theme_of_Lesson>
+    <Serial_Number_of_Theme>1</Serial_Number_of_Theme>
+    <Max_Mark>20</Max_Mark>
+  </Task>
+  <Task>
+    <Id>23</Id>
+    <Name>Транспортная задача</Name>
+    <Discipline_Id>7</Discipline_Id>
+    <Term>
+      <Day>19</Day>
+      <Month>6</Month>
+      <Year>2020</Year>
+      <Hour>12</Hour>
+      <Minute>0</Minute>
+    </Term>
+    <Type_of_Lesson>Лабораторная работа</Type_of_Lesson>
+    <Theme_of_Lesson>Линейное программирование</Theme_of_Lesson>
+    <Serial_Number_of_Theme>2</Serial_Number_of_Theme>
+    <Max_Mark>20</Max_Mark>
+  </Task>
+  <Task>
+    <Id>24</Id>
+    <Name>Задача о назначениях</Name>
+    <Discipline_Id>7</Discipline_Id>
+    <Term>
+      <Day>20</Day>
+      <Month>6</Month>
+      <Year>2020</Year>
+      <Hour>20</Hour>
+      <Minute>0</Minute>
+    </Term>
+    <Type_of_Lesson>Лабораторная работа</Type_of_Lesson>
+    <Theme_of_Lesson>Линейное программирование</Theme_of_Lesson>
+    <Serial_Number_of_Theme>3</Serial_Number_of_Theme>
+    <Max_Mark>20</Max_Mark>
+  </Task>
+  <Task>
+    <Id>25</Id>
+    <Name>Алгоритм Флойда</Name>
+    <Discipline_Id>7</Discipline_Id>
+    <Term>
+      <Day>21</Day>
+      <Month>6</Month>
+      <Year>2020</Year>
+      <Hour>17</Hour>
+      <Minute>10</Minute>
+    </Term>
+    <Type_of_Lesson>Лабораторная работа</Type_of_Lesson>
+    <Theme_of_Lesson>Линейное программирование</Theme_of_Lesson>
+    <Serial_Number_of_Theme>4</Serial_Number_of_Theme>
+    <Max_Mark>20</Max_Mark>
+  </Task>
+  <Task>
+    <Id>26</Id>
+    <Name>Индивидуальное задание №1</Name>
+    <Discipline_Id>7</Discipline_Id>
+    <Term>
+      <Day>22</Day>
+      <Month>6</Month>
+      <Year>2020</Year>
+      <Hour>0</Hour>
+      <Minute>0</Minute>
+    </Term>
+    <Type_of_Lesson>Лабораторная работа</Type_of_Lesson>
+    <Theme_of_Lesson>Линейное программирование</Theme_of_Lesson>
+    <Serial_Number_of_Theme>5</Serial_Number_of_Theme>
+    <Max_Mark>10</Max_Mark>
+  </Task>
+  <Task>
+    <Id>27</Id>
+    <Name>Индивидуальное программирование</Name>
+    <Discipline_Id>7</Discipline_Id>
+    <Term>
+      <Day>21</Day>
+      <Month>6</Month>
+      <Year>2020</Year>
+      <Hour>0</Hour>
+      <Minute>0</Minute>
+    </Term>
+    <Type_of_Lesson>Лабораторная работа</Type_of_Lesson>
+    <Theme_of_Lesson>Динамическое программирование</Theme_of_Lesson>
+    <Serial_Number_of_Theme>6</Serial_Number_of_Theme>
+    <Max_Mark>10</Max_Mark>
+  </Task>
+</list>

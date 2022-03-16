@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<list>
+  <group>
+    <Id>5</Id>
+    <Name>191-351</Name>
+    <Speciality>Информационная безопасность</Speciality>
+    <Course>3</Course>
+    <Faculty>ФИТ</Faculty>
+  </group>
+  <group>
+    <Id>6</Id>
+    <Name>191-331</Name>
+    <Speciality>Информационная безопасность автоматизированных систем</Speciality>
+    <Course>3</Course>
+    <Faculty>ФИТ</Faculty>
+  </group>
+</list>
